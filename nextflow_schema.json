@@ -56,10 +56,7 @@
           "items": {
             "type": "string",
             "format": "file-path"
-          },
-          "default": [
-            "fil.23a81d8d3dcb4b06890f08dc68c5690c"
-          ]
+          }
         }
       },
       "additionalProperties": false
